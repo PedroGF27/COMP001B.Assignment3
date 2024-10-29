@@ -21,7 +21,8 @@ aside {
 }
 
 footer {
-	clear: left;
+	position: absolute;
+	bottom: 3px;
 }
 
 header {
